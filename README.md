@@ -1,6 +1,6 @@
 # recipes
 
-> My awesome recipe[C[Cs book ap book appp
+> My awesome recipes book app
 
 ## Build Setup
 
